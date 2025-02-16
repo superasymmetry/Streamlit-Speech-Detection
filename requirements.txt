@@ -4,3 +4,6 @@ torch
 pyaudio
 numpy
 datasets
+evaluate
+random
+groq
