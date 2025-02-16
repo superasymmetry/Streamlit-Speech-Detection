@@ -1,5 +1,6 @@
 import os
 import json
+import torch
 import numpy as np
 from transformers import WhisperProcessor, WhisperForConditionalGeneration, pipeline
 from datasets import load_dataset
